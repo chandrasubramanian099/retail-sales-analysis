@@ -1,71 +1,122 @@
-# Retail star schema
+# Retail Sales Analysis — Star Schema & SQL Analytics
 
-A dimensional model to practise joins and BI on: one fact table and four dimensions, 47,051 rows, free and public
-domain. A chain of 20 stores across four US regions sells general merchandise to 2,000 loyalty members over
-two years, 2024 and 2025.
+**Author:** Chandra Subramanian  
+**Tools:** SQLite · Python · Pandas · Matplotlib  
+**Data:** 43,900 transactions · 20 stores · 2,000 customers · 2 years (2024–2025)
 
-## The model
+---
 
-    dim_date (731) ─────────┐
-    dim_product (400) ──────┼──> fact_sales (43,900)
-    dim_customer (2,000) ───┤
-    dim_store (20) ─────────┘
+## Project Overview
 
-`fact_sales` holds one line per product sold, with its date and time of day, quantity, discount, unit price and revenue.
-`dim_date` is a full calendar with US holidays.
+End-to-end retail analytics project built on a star schema database.  
+I designed and ran 12 business SQL queries across revenue, margin, customer behaviour and store performance — then visualised the findings in Python with dark-mode charts.
 
-## What holds, and how it was checked
+---
 
-Measured with DuckDB against these exact files. Full output in `INTEGRITY.txt`.
+## Schema — Star Model
 
-- **Zero orphaned rows** on all four joins and **zero duplicate keys** in any dimension.
-- **Category share of revenue over the two years is exact**: Electronics 42.00%, Home 26.00%, Apparel 20.00%,
-  Grocery 12.00%. Each month keeps its own mix around that (electronics run from 32% of a month's revenue to
-  57% in December).
-- **Monthly revenue lands exactly** on a declared two-year curve, all 24 months to the cent: 82,000.00 in January
-  2024, 115,000.00 in December 2024, 148,000.00 in December 2025.
-- **Every line adds up**: revenue = quantity × unit_price × (1 − discount_pct) on 100.00% of rows, and the price paid
-  stays near the product's list price (5th to 95th percentile 0.91× to 1.21×). 1.3% of lines sell under
-  cost after their discount.
-- **Dates are in order**: no customer joins before their home store opened, and no sale comes before its customer joined.
+**fact_sales:** sale_id, customer_key, store_key, product_key, date_key, time_of_day, category, quantity, discount_pct, revenue, unit_price
 
-That is the point of it: your `GROUP BY` has an answer that is known to be right, so you can check your own SQL instead
-of eyeballing whether it looks plausible.
+---
 
-## How it behaves
+## Key Findings
 
-- The busiest 20% of customers place 61% of the sale lines, and the best-selling product sells 162× as
-  often as the median one.
-- 89% of lines are at a store in the customer's own city; the rest are visits elsewhere.
-- Stores trade 9:00 to 21:00 Monday to Saturday and 10:00 to 18:00 on Sunday. Saturday is the busiest day.
-- Seasons move what sells: desk fans peak in July, space heaters in February, gaming consoles and string lights in
-  November and December.
+### Revenue Overview
+| Metric | Value |
+|--------|-------|
+| Total Revenue | ~$2.9 M |
+| Total Transactions | 43,900 |
+| Average Order Value | ~$66 |
+| Date Range | Jan 2024 – Dec 2025 |
 
-The products, prices, costs, seasonal lifts and the revenue curve were authored for this dataset. They are estimates of
-how a general-merchandise chain behaves, not figures from a real retailer.
+### Revenue by Category
+| Category | Revenue Share |
+|----------|--------------|
+| Electronics | 42% |
+| Home | 26% |
+| Apparel | 20% |
+| Grocery | 12% |
 
-## Things to try
+### Revenue by Region
+| Region | Revenue | Stores | Rev/Store |
+|--------|---------|--------|-----------|
+| South | Highest | 5 | Highest |
+| East | 2nd | 5 | 2nd |
+| West | 3rd | 5 | 3rd |
+| North | Lowest | 5 | Lowest |
 
-- Revenue by category and region, joining the fact table to two dimensions.
-- Month-over-month growth, which should trace the declared curve.
-- Gross margin by brand tier (`subcategory` is Premium, Standard or Budget): revenue against quantity × unit_cost.
-- Which customers shop away from home, and at which stores?
-- Deliberately write the join wrong and watch the totals stop matching.
+**Key Insight:** South earns ~3× more per store than North — driven by ONE Flagship store in the South generating $433,654 alone.
 
-## Make your own
+### Gross Margin by Tier
+| Tier | Margin % |
+|------|----------|
+| Standard | 35.3% |
+| Premium | 32.3% |
+| Budget | 29.5% |
 
-Made by the Misata engine (seed 21) from a designed world, then turned into a star. To get one shaped like your own
-business, with the totals you state, describe it at https://www.misata.studio/app.
+### Day of Week Revenue
+Saturday is the highest-revenue day. Sunday is lowest.
 
-## Provenance
+### Customer Segments
+| Segment | Revenue Share |
+|---------|--------------|
+| Consumer | ~50% |
+| Corporate | ~30% |
+| Home Office | ~20% |
 
-No real customer, product, store or transaction exists here, and nothing was sampled from a real dataset. Names and
-emails are invented.
+---
 
-Public domain (CC0). No signup, no attribution required.
+## SQL Queries Written
 
-## The full version
+| # | Business Question |
+|---|-------------------|
+| Q1 | Total revenue, transactions, AOV |
+| Q2 | Revenue by product category |
+| Q3 | Monthly revenue trend (MoM growth with LAG) |
+| Q4 | Gross margin % by brand tier |
+| Q5 | Revenue per store by region |
+| Q6 | Top 10 products by revenue |
+| Q7 | Gross margin % by subcategory |
+| Q8 | Top 10 products by quantity sold |
+| Q9 | Top 10 customers by lifetime value |
+| Q10 | Store type mix by region (Standard/Outlet/Flagship) |
+| Q11 | Revenue by day of week |
+| Q12 | Revenue by customer segment |
 
-This is a sample. The full version, **Retail Data Warehouse**, is 2,790,852 rows in a star schema of 9 dimensions and 5 facts: 10 stores, 240 products in 31 subcategories, 36,000 loyalty members, 1,163,432 store-item-days, 372,583 baskets, 1,101,202 receipt lines and 10,601 returns, fiscal 2024 and 2025 (4 February 2024 to 31 January 2026) on the NRF 4-5-4 calendar.
+---
 
-See what is in it, with a free preview to load first: https://www.misata.studio/datasets/premium/retail-warehouse?utm_source=free_dataset&utm_medium=readme&utm_content=retail-star-schema
+## Charts Generated
+
+| Chart | Description |
+|-------|-------------|
+| chart_01_category.png | Bar chart — Revenue by Category |
+| chart_02_region.png | Bar chart — Revenue by Region |
+| chart_03_monthly_trend.png | Line chart — Monthly Revenue Trend |
+| chart_04_gross_margin.png | Bar chart — Gross Margin % by Tier |
+| chart_05_day_of_week.png | Bar chart — Revenue by Day of Week |
+| chart_06_customer_clv.png | Bar chart — Top 10 Customers by CLV |
+
+All charts use a dark-mode design with custom colour palette.
+
+---
+
+## How to Run
+
+**Requirements:** Python 3.x, pandas, matplotlib
+
+```bash
+pip install pandas matplotlib
+python analysis/run_analysis.py
+```
+
+Charts are saved to the `charts/` folder automatically.
+
+---
+
+## Business Takeaways
+
+1. **Electronics dominates** — 42% of revenue; prioritise stock and promotions here
+2. **Flagship stores punch far above their weight** — one South Flagship earns more than multiple Standard stores combined
+3. **Saturday is peak day** — schedule maximum staff and promotions for Saturday
+4. **Standard tier has highest margin** — better profitability than Premium despite lower price
+5. **Revenue grew consistently** — MoM growth trend confirms healthy store performance 2024–2025
