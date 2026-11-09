@@ -1,0 +1,21 @@
+store_key,store_id,store_name,city,region,store_type,opened_on
+1,1,Detroit Store,Detroit,North,Standard,2010-04-11
+2,2,Phoenix Store,Phoenix,West,Standard,2010-07-28
+3,3,Hartford Store,Hartford,East,Standard,2011-05-17
+4,4,Atlanta Store,Atlanta,South,Standard,2011-08-31
+5,5,Milwaukee Store,Milwaukee,North,Standard,2011-11-13
+6,6,Minneapolis Outlet,Minneapolis,North,Outlet,2012-04-23
+7,7,Charlotte Store,Charlotte,South,Standard,2013-04-20
+8,8,Baltimore Store,Baltimore,East,Standard,2013-04-23
+9,9,Portland Flagship,Portland,West,Flagship,2013-07-02
+10,10,Denver Outlet,Denver,West,Outlet,2013-07-31
+11,11,Salt Lake City Store,Salt Lake City,West,Standard,2013-09-06
+12,12,Philadelphia Store,Philadelphia,East,Standard,2015-07-16
+13,13,Pittsburgh Store,Pittsburgh,East,Standard,2015-10-31
+14,14,Sacramento Store,Sacramento,West,Standard,2016-07-11
+15,15,Columbus Outlet,Columbus,North,Outlet,2018-10-22
+16,16,Tampa Store,Tampa,South,Standard,2020-09-20
+17,17,Richmond Store,Richmond,East,Standard,2021-01-04
+18,18,Austin Flagship,Austin,South,Flagship,2021-02-02
+19,19,Nashville Store,Nashville,South,Standard,2021-11-12
+20,20,Madison Outlet,Madison,North,Outlet,2022-05-21

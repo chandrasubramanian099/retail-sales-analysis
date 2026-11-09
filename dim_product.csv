@@ -1,0 +1,401 @@
+product_key,product_id,product_name,category,subcategory,brand,unit_cost,list_price
+1,1,"Larder Rice 2kg, Family Size",Grocery,Premium,Larder,6.81,10.99
+2,2,Trailhead Sandals,Apparel,Standard,Trailhead,16.73,34.99
+3,3,"Cedar Queen Duvet, Large",Home,Budget,Cedar,47.57,80.99
+4,4,"GoldenField Granola Bars, Family Size",Grocery,Standard,GoldenField,4.76,6.99
+5,5,"Trailhead Running Shoes, Navy",Apparel,Standard,Trailhead,43.51,90.99
+6,6,"GreenTable Pasta 500g, Family Size",Grocery,Budget,GreenTable,1.27,1.86
+7,7,Marlow Sports Socks,Apparel,Budget,Marlow,3.33,7.99
+8,8,Hearthstone Storage Baskets,Home,Premium,Hearthstone,22.07,42.99
+9,9,Nimbus USB-C Charger,Electronics,Standard,Nimbus,18.09,23.99
+10,10,Marlow Leather Belt,Apparel,Budget,Marlow,8.68,18.99
+11,11,Trailhead Hooded Sweatshirt,Apparel,Standard,Trailhead,16.36,41.99
+12,12,Marlow Knit Beanie,Apparel,Budget,Marlow,5.97,12.99
+13,13,"Trailhead Cotton T-Shirt, Black",Apparel,Standard,Trailhead,6.35,14.99
+14,14,GoldenField Peanut Butter,Grocery,Standard,GoldenField,2.87,3.99
+15,15,"Trailhead Cotton T-Shirt, Navy",Apparel,Standard,Trailhead,6.75,15.99
+16,16,"Ashford Running Shoes, Black",Apparel,Premium,Ashford,65.93,132.99
+17,17,"GoldenField Hot Chocolate Mix, Family Size",Grocery,Standard,GoldenField,6.33,8.99
+18,18,"Marlow Summer Dress, Black",Apparel,Budget,Marlow,12.88,29.99
+19,19,"Marlow Slim-Fit Jeans, Navy",Apparel,Budget,Marlow,13.48,31.99
+20,20,"Cedar Storage Baskets, Large",Home,Budget,Cedar,13.27,24.99
+21,21,Kestrel USB-C Charger,Electronics,Budget,Kestrel,11.87,16.99
+22,22,Hearthstone Dinner Plate Set,Home,Premium,Hearthstone,45.5,78.99
+23,23,"Marlow Winter Coat, Navy",Apparel,Budget,Marlow,41.29,97.99
+24,24,"Trailhead Knit Beanie, Black",Apparel,Standard,Trailhead,7.78,18.99
+25,25,Cedar Scented Candle,Home,Budget,Cedar,6.45,10.99
+26,26,"Kestrel HDMI Cable, Pro",Electronics,Budget,Kestrel,8.68,11.99
+27,27,"Ashford Hooded Sweatshirt, Black",Apparel,Premium,Ashford,23.73,51.99
+28,28,Trailhead Slim-Fit Jeans,Apparel,Standard,Trailhead,18.65,44.99
+29,29,Cedar Storage Baskets,Home,Budget,Cedar,11.64,20.99
+30,30,"Nimbus USB-C Charger, Pro",Electronics,Standard,Nimbus,25.26,34.99
+31,31,"Cedar String Lights, Set of 2",Home,Budget,Cedar,11.59,21.99
+32,32,"GreenTable Granola Bars, Family Size",Grocery,Budget,GreenTable,3.18,4.99
+33,33,"Hearthstone Bath Towel Set, Large",Home,Premium,Hearthstone,43.79,77.99
+34,34,"Cedar Table Lamp, Large",Home,Budget,Cedar,24.43,42.99
+35,35,"Marlow Cotton T-Shirt, Black",Apparel,Budget,Marlow,4.62,9.99
+36,36,Trailhead Wool Sweater,Apparel,Standard,Trailhead,27.61,57.99
+37,37,Larder Granola Bars,Grocery,Premium,Larder,4.25,5.99
+38,38,Larder Mixed Nuts 400g,Grocery,Premium,Larder,8.34,11.99
+39,39,GreenTable Hot Chocolate Mix,Grocery,Budget,GreenTable,2.48,3.99
+40,40,"Nimbus Phone Case, Pro",Electronics,Standard,Nimbus,18.07,25.99
+41,41,Marlow Chino Trousers,Apparel,Budget,Marlow,15.17,30.99
+42,42,"Larder Mixed Nuts 400g, Family Size",Grocery,Premium,Larder,13.84,19.99
+43,43,"Nimbus Laptop 14-inch, Pro",Electronics,Standard,Nimbus,793.44,1031.99
+44,44,"Larder Green Tea 40 bags, Family Size",Grocery,Premium,Larder,6.11,9.99
+45,45,"GreenTable Green Tea 40 bags, Multipack",Grocery,Budget,GreenTable,3.88,5.99
+46,46,Kestrel Portable SSD 1TB,Electronics,Budget,Kestrel,51.64,73.99
+47,47,Marlow Wool Sweater,Apparel,Budget,Marlow,16.06,41.99
+48,48,"Kestrel Soundbar, Pro",Electronics,Budget,Kestrel,128.77,168.99
+49,49,"Cedar Bath Towel Set, Large",Home,Budget,Cedar,20.79,35.99
+50,50,Hearthstone Bath Towel Set,Home,Premium,Hearthstone,29.81,55.99
+51,51,"Trailhead Running Shoes, Black",Apparel,Standard,Trailhead,37.34,84.99
+52,52,"Brightside Garden Hose, Large",Home,Standard,Brightside,24.31,40.99
+53,53,Larder Ground Coffee 500g,Grocery,Premium,Larder,9.21,13.99
+54,54,"GreenTable Granola Bars, Multipack",Grocery,Budget,GreenTable,4.79,6.99
+55,55,Marlow Swim Shorts,Apparel,Budget,Marlow,8.99,18.99
+56,56,Marlow Sandals,Apparel,Budget,Marlow,11.09,24.99
+57,57,"GreenTable Rice 2kg, Family Size",Grocery,Budget,GreenTable,3.82,5.99
+58,58,"GreenTable Sparkling Water 12-pack, Family Size",Grocery,Budget,GreenTable,4.23,6.99
+59,59,"Voltix Smart Watch, Pro",Electronics,Premium,Voltix,293.63,373.99
+60,60,"GoldenField Honey 340g, Family Size",Grocery,Standard,GoldenField,7.35,10.99
+61,61,"Trailhead Pyjama Set, Black",Apparel,Standard,Trailhead,12.65,29.99
+62,62,"GreenTable Breakfast Cereal, Family Size",Grocery,Budget,GreenTable,3.5,4.99
+63,63,"Trailhead Sports Socks, Black",Apparel,Standard,Trailhead,5.71,12.99
+64,64,Cedar Coffee Maker,Home,Budget,Cedar,24.11,49.99
+65,65,Nimbus Smart Watch,Electronics,Standard,Nimbus,148.21,211.99
+66,66,Brightside Chef Knife,Home,Standard,Brightside,22.61,44.99
+67,67,"GreenTable Green Tea 40 bags, Family Size",Grocery,Budget,GreenTable,2.83,3.99
+68,68,"Brightside Space Heater, Large",Home,Standard,Brightside,43.78,72.99
+69,69,"Cedar Vacuum Cleaner, Set of 2",Home,Budget,Cedar,120.95,223.99
+70,70,"Marlow Chino Trousers, Black",Apparel,Budget,Marlow,15.8,32.99
+71,71,Kestrel 4K TV 55-inch,Electronics,Budget,Kestrel,282.47,404.99
+72,72,GreenTable Mixed Nuts 400g,Grocery,Budget,GreenTable,3.72,5.99
+73,73,Ashford Swim Shorts,Apparel,Premium,Ashford,14.67,34.99
+74,74,Nimbus Webcam 1080p,Electronics,Standard,Nimbus,30.94,44.99
+75,75,Cedar Space Heater,Home,Budget,Cedar,20.42,39.99
+76,76,"Nimbus Tablet 10-inch, Pro",Electronics,Standard,Nimbus,312.18,455.99
+77,77,GreenTable Granola Bars,Grocery,Budget,GreenTable,2.12,2.99
+78,78,Voltix Tablet 10-inch,Electronics,Premium,Voltix,344.79,500.99
+79,79,"Ashford Knit Beanie, Navy",Apparel,Premium,Ashford,11.6,25.99
+80,80,"Nimbus Bluetooth Speaker, Pro",Electronics,Standard,Nimbus,58.67,82.99
+81,81,"Ashford Sandals, Navy",Apparel,Premium,Ashford,23.22,48.99
+82,82,"Brightside Table Lamp, Large",Home,Standard,Brightside,36.97,61.99
+83,83,Nimbus Phone Case,Electronics,Standard,Nimbus,14.63,19.99
+84,84,"Larder Olive Oil 1L, Multipack",Grocery,Premium,Larder,25.77,37.99
+85,85,Larder Peanut Butter,Grocery,Premium,Larder,4.05,5.99
+86,86,"Voltix Fitness Tracker, Pro",Electronics,Premium,Voltix,114.07,163.99
+87,87,Ashford Winter Coat,Apparel,Premium,Ashford,88.0,218.99
+88,88,"Trailhead Wool Sweater, Black",Apparel,Standard,Trailhead,24.26,54.99
+89,89,"Brightside Bath Towel Set, Large",Home,Standard,Brightside,24.95,50.99
+90,90,Brightside Coffee Maker,Home,Standard,Brightside,42.63,71.99
+91,91,"Brightside Air Fryer, Large",Home,Standard,Brightside,70.51,122.99
+92,92,Hearthstone Table Lamp,Home,Premium,Hearthstone,33.0,63.99
+93,93,Kestrel Bluetooth Speaker,Electronics,Budget,Kestrel,29.31,40.99
+94,94,Hearthstone Garden Hose,Home,Premium,Hearthstone,25.35,43.99
+95,95,Ashford Cotton T-Shirt,Apparel,Premium,Ashford,9.96,20.99
+96,96,"Hearthstone Garden Hose, Large",Home,Premium,Hearthstone,29.24,58.99
+97,97,"Voltix Bluetooth Speaker, Pro",Electronics,Premium,Voltix,82.69,108.99
+98,98,"GreenTable Peanut Butter, Family Size",Grocery,Budget,GreenTable,3.53,4.99
+99,99,"Nimbus Smart Watch, Pro",Electronics,Standard,Nimbus,200.4,283.99
+100,100,Cedar Non-Stick Frying Pan,Home,Budget,Cedar,11.75,23.99
+101,101,"Cedar Desk Fan, Large",Home,Budget,Cedar,20.67,37.99
+102,102,"Marlow Leather Belt, Black",Apparel,Budget,Marlow,8.82,20.99
+103,103,"GreenTable Pasta 500g, Multipack",Grocery,Budget,GreenTable,1.66,2.71
+104,104,"Trailhead Summer Dress, Black",Apparel,Standard,Trailhead,19.96,40.99
+105,105,GreenTable Rice 2kg,Grocery,Budget,GreenTable,2.86,3.99
+106,106,Trailhead Pyjama Set,Apparel,Standard,Trailhead,12.51,29.99
+107,107,"Kestrel Fitness Tracker, Pro",Electronics,Budget,Kestrel,61.94,79.99
+108,108,"Cedar Air Fryer, Large",Home,Budget,Cedar,49.67,83.99
+109,109,GreenTable Olive Oil 1L,Grocery,Budget,GreenTable,5.36,7.99
+110,110,Voltix Smart Watch,Electronics,Premium,Voltix,213.9,310.99
+111,111,Kestrel E-Reader,Electronics,Budget,Kestrel,64.06,93.99
+112,112,"Nimbus Portable SSD 1TB, Pro",Electronics,Standard,Nimbus,91.76,130.99
+113,113,"Cedar Non-Stick Frying Pan, Large",Home,Budget,Cedar,16.16,31.99
+114,114,"GoldenField Hot Chocolate Mix, Multipack",Grocery,Standard,GoldenField,7.75,11.99
+115,115,Voltix Gaming Console,Electronics,Premium,Voltix,462.66,674.99
+116,116,"Nimbus Soundbar, Pro",Electronics,Standard,Nimbus,193.1,250.99
+117,117,GoldenField Pasta 500g,Grocery,Standard,GoldenField,1.27,1.82
+118,118,"Voltix Phone Case, Pro",Electronics,Premium,Voltix,29.86,39.99
+119,119,GoldenField Granola Bars,Grocery,Standard,GoldenField,3.0,4.99
+120,120,"Brightside Bath Towel Set, Set of 2",Home,Standard,Brightside,35.78,62.99
+121,121,Voltix Webcam 1080p,Electronics,Premium,Voltix,50.78,73.99
+122,122,"Nimbus Gaming Console, Pro",Electronics,Standard,Nimbus,419.67,562.99
+123,123,Ashford Pyjama Set,Apparel,Premium,Ashford,22.63,46.99
+124,124,"Trailhead Winter Coat, Navy",Apparel,Standard,Trailhead,73.94,153.99
+125,125,"GoldenField Pasta 500g, Family Size",Grocery,Standard,GoldenField,1.88,2.68
+126,126,"GoldenField Sparkling Water 12-pack, Family Size",Grocery,Standard,GoldenField,6.66,9.99
+127,127,"Ashford Sports Socks, Black",Apparel,Premium,Ashford,6.93,16.99
+128,128,"Larder Oat Milk 1L, Multipack",Grocery,Premium,Larder,6.37,8.99
+129,129,"Nimbus HDMI Cable, Pro",Electronics,Standard,Nimbus,12.46,15.99
+130,130,Marlow Pyjama Set,Apparel,Budget,Marlow,9.23,20.99
+131,131,"Trailhead Sandals, Black",Apparel,Standard,Trailhead,16.16,33.99
+132,132,Trailhead Chino Trousers,Apparel,Standard,Trailhead,18.43,41.99
+133,133,"Brightside Queen Duvet, Set of 2",Home,Standard,Brightside,94.07,156.99
+134,134,"Larder Granola Bars, Family Size",Grocery,Premium,Larder,6.64,10.99
+135,135,Voltix 4K TV 55-inch,Electronics,Premium,Voltix,571.15,787.99
+136,136,"Ashford Sports Socks, Navy",Apparel,Premium,Ashford,7.8,18.99
+137,137,"Trailhead Chino Trousers, Black",Apparel,Standard,Trailhead,20.84,46.99
+138,138,GoldenField Rice 2kg,Grocery,Standard,GoldenField,3.12,4.99
+139,139,Kestrel Tablet 10-inch,Electronics,Budget,Kestrel,161.38,235.99
+140,140,Ashford Running Shoes,Apparel,Premium,Ashford,51.2,129.99
+141,141,"Cedar Dinner Plate Set, Large",Home,Budget,Cedar,28.99,51.99
+142,142,Trailhead Rain Jacket,Apparel,Standard,Trailhead,28.93,74.99
+143,143,Voltix Portable SSD 1TB,Electronics,Premium,Voltix,107.56,138.99
+144,144,Nimbus Soundbar,Electronics,Standard,Nimbus,126.28,175.99
+145,145,Cedar Desk Fan,Home,Budget,Cedar,13.67,25.99
+146,146,"GreenTable Hot Chocolate Mix, Family Size",Grocery,Budget,GreenTable,4.25,5.99
+147,147,"Brightside Scented Candle, Set of 2",Home,Standard,Brightside,15.37,27.99
+148,148,"Hearthstone Storage Baskets, Large",Home,Premium,Hearthstone,27.46,54.99
+149,149,Marlow Rain Jacket,Apparel,Budget,Marlow,21.88,51.99
+150,150,Ashford Chino Trousers,Apparel,Premium,Ashford,28.76,61.99
+151,151,Marlow Cotton T-Shirt,Apparel,Budget,Marlow,4.96,10.99
+152,152,"Marlow Cotton T-Shirt, Navy",Apparel,Budget,Marlow,5.29,10.99
+153,153,Voltix Soundbar,Electronics,Premium,Voltix,184.12,244.99
+154,154,"Larder Pasta 500g, Family Size",Grocery,Premium,Larder,2.79,3.99
+155,155,"Brightside String Lights, Large",Home,Standard,Brightside,14.32,24.99
+156,156,Cedar Dinner Plate Set,Home,Budget,Cedar,21.99,38.99
+157,157,"Nimbus Webcam 1080p, Pro",Electronics,Standard,Nimbus,52.38,69.99
+158,158,"Kestrel Smart Watch, Pro",Electronics,Budget,Kestrel,140.45,185.99
+159,159,GreenTable Green Tea 40 bags,Grocery,Budget,GreenTable,1.92,2.7
+160,160,GoldenField Mixed Nuts 400g,Grocery,Standard,GoldenField,5.42,7.99
+161,161,GoldenField Honey 340g,Grocery,Standard,GoldenField,4.42,6.99
+162,162,Kestrel Webcam 1080p,Electronics,Budget,Kestrel,24.27,32.99
+163,163,Trailhead Winter Coat,Apparel,Standard,Trailhead,66.16,153.99
+164,164,"Voltix 4K TV 55-inch, Pro",Electronics,Premium,Voltix,777.91,1038.99
+165,165,Hearthstone Non-Stick Frying Pan,Home,Premium,Hearthstone,25.7,50.99
+166,166,"Larder BBQ Charcoal 8kg, Family Size",Grocery,Premium,Larder,20.74,28.99
+167,167,"Ashford Pyjama Set, Black",Apparel,Premium,Ashford,19.47,48.99
+168,168,Voltix Laptop 14-inch,Electronics,Premium,Voltix,906.41,1163.99
+169,169,Marlow Hooded Sweatshirt,Apparel,Budget,Marlow,11.75,25.99
+170,170,"Cedar Coffee Maker, Large",Home,Budget,Cedar,30.28,57.99
+171,171,"Marlow Rain Jacket, Black",Apparel,Budget,Marlow,25.93,54.99
+172,172,"Larder Sparkling Water 12-pack, Family Size",Grocery,Premium,Larder,8.44,13.99
+173,173,"Voltix Wireless Earbuds, Pro",Electronics,Premium,Voltix,110.52,149.99
+174,174,Brightside Bath Towel Set,Home,Standard,Brightside,22.47,39.99
+175,175,GreenTable Peanut Butter,Grocery,Budget,GreenTable,1.85,2.85
+176,176,Kestrel HDMI Cable,Electronics,Budget,Kestrel,7.08,8.99
+177,177,Larder Honey 340g,Grocery,Premium,Larder,6.44,9.99
+178,178,"Nimbus 4K TV 55-inch, Pro",Electronics,Standard,Nimbus,478.23,689.99
+179,179,"Larder Ground Coffee 500g, Family Size",Grocery,Premium,Larder,14.24,20.99
+180,180,"Cedar Chef Knife, Large",Home,Budget,Cedar,27.1,46.99
+181,181,"Ashford Summer Dress, Black",Apparel,Premium,Ashford,29.77,62.99
+182,182,Trailhead Cotton T-Shirt,Apparel,Standard,Trailhead,6.79,15.99
+183,183,"Voltix Laptop 14-inch, Pro",Electronics,Premium,Voltix,1010.1,1410.99
+184,184,"GreenTable Honey 340g, Family Size",Grocery,Budget,GreenTable,4.6,6.99
+185,185,"Ashford Slim-Fit Jeans, Black",Apparel,Premium,Ashford,34.8,69.99
+186,186,Cedar Vacuum Cleaner,Home,Budget,Cedar,65.78,131.99
+187,187,Hearthstone Vacuum Cleaner,Home,Premium,Hearthstone,132.58,274.99
+188,188,"Larder Honey 340g, Multipack",Grocery,Premium,Larder,12.8,18.99
+189,189,"Kestrel Webcam 1080p, Pro",Electronics,Budget,Kestrel,34.77,46.99
+190,190,"GreenTable BBQ Charcoal 8kg, Family Size",Grocery,Budget,GreenTable,9.74,13.99
+191,191,"Marlow Running Shoes, Navy",Apparel,Budget,Marlow,31.78,65.99
+192,192,Nimbus Laptop 14-inch,Electronics,Standard,Nimbus,492.51,706.99
+193,193,Brightside Queen Duvet,Home,Standard,Brightside,42.85,82.99
+194,194,Kestrel Soundbar,Electronics,Budget,Kestrel,96.6,128.99
+195,195,Kestrel Phone Case,Electronics,Budget,Kestrel,9.05,12.99
+196,196,Brightside Non-Stick Frying Pan,Home,Standard,Brightside,19.6,32.99
+197,197,Larder BBQ Charcoal 8kg,Grocery,Premium,Larder,14.08,19.99
+198,198,Marlow Slim-Fit Jeans,Apparel,Budget,Marlow,15.01,33.99
+199,199,"Trailhead Hooded Sweatshirt, Black",Apparel,Standard,Trailhead,15.03,37.99
+200,200,"Cedar Garden Hose, Large",Home,Budget,Cedar,16.56,27.99
+201,201,"Trailhead Swim Shorts, Black",Apparel,Standard,Trailhead,11.68,24.99
+202,202,"Voltix USB-C Charger, Pro",Electronics,Premium,Voltix,35.8,46.99
+203,203,"Hearthstone Chef Knife, Large",Home,Premium,Hearthstone,51.96,93.99
+204,204,Larder Chocolate Bar,Grocery,Premium,Larder,2.48,3.99
+205,205,Hearthstone Scented Candle,Home,Premium,Hearthstone,10.73,21.99
+206,206,"Hearthstone Vacuum Cleaner, Large",Home,Premium,Hearthstone,165.23,341.99
+207,207,"GoldenField Mixed Nuts 400g, Family Size",Grocery,Standard,GoldenField,9.75,13.99
+208,208,"Marlow Winter Coat, Black",Apparel,Budget,Marlow,46.3,105.99
+209,209,Larder Breakfast Cereal,Grocery,Premium,Larder,3.66,5.99
+210,210,Cedar String Lights,Home,Budget,Cedar,7.96,13.99
+211,211,"Ashford Wool Sweater, Black",Apparel,Premium,Ashford,34.74,83.99
+212,212,"Hearthstone Queen Duvet, Set of 2",Home,Premium,Hearthstone,113.06,201.99
+213,213,GoldenField Breakfast Cereal,Grocery,Standard,GoldenField,3.5,4.99
+214,214,Brightside Space Heater,Home,Standard,Brightside,30.46,56.99
+215,215,"Kestrel Phone Case, Pro",Electronics,Budget,Kestrel,11.6,16.99
+216,216,"GoldenField Olive Oil 1L, Family Size",Grocery,Standard,GoldenField,12.4,19.99
+217,217,"Brightside Non-Stick Frying Pan, Set of 2",Home,Standard,Brightside,32.81,60.99
+218,218,Cedar Bath Towel Set,Home,Budget,Cedar,14.74,26.99
+219,219,"Voltix Soundbar, Pro",Electronics,Premium,Voltix,283.04,374.99
+220,220,"Larder BBQ Charcoal 8kg, Multipack",Grocery,Premium,Larder,23.94,38.99
+221,221,Voltix USB-C Charger,Electronics,Premium,Voltix,26.45,36.99
+222,222,"GreenTable Mixed Nuts 400g, Family Size",Grocery,Budget,GreenTable,6.41,8.99
+223,223,GoldenField Green Tea 40 bags,Grocery,Standard,GoldenField,2.67,3.99
+224,224,Ashford Summer Dress,Apparel,Premium,Ashford,22.81,57.99
+225,225,Hearthstone Space Heater,Home,Premium,Hearthstone,53.19,89.99
+226,226,"Voltix Webcam 1080p, Pro",Electronics,Premium,Voltix,70.08,99.99
+227,227,"Kestrel Laptop 14-inch, Pro",Electronics,Budget,Kestrel,550.11,736.99
+228,228,Trailhead Swim Shorts,Apparel,Standard,Trailhead,12.23,25.99
+229,229,"Marlow Knit Beanie, Black",Apparel,Budget,Marlow,6.1,12.99
+230,230,Ashford Hooded Sweatshirt,Apparel,Premium,Ashford,26.6,57.99
+231,231,"Kestrel Portable SSD 1TB, Pro",Electronics,Budget,Kestrel,77.76,100.99
+232,232,"Larder Breakfast Cereal, Family Size",Grocery,Premium,Larder,5.95,8.99
+233,233,"Marlow Hooded Sweatshirt, Black",Apparel,Budget,Marlow,11.11,25.99
+234,234,"Larder Olive Oil 1L, Family Size",Grocery,Premium,Larder,18.52,27.99
+235,235,"Kestrel Gaming Console, Pro",Electronics,Budget,Kestrel,315.9,434.99
+236,236,Hearthstone Chef Knife,Home,Premium,Hearthstone,34.41,70.99
+237,237,GoldenField Oat Milk 1L,Grocery,Standard,GoldenField,1.79,2.89
+238,238,"Cedar Space Heater, Large",Home,Budget,Cedar,26.11,49.99
+239,239,Nimbus Gaming Console,Electronics,Standard,Nimbus,360.95,460.99
+240,240,Cedar Air Fryer,Home,Budget,Cedar,42.15,73.99
+241,241,"Nimbus Fitness Tracker, Pro",Electronics,Standard,Nimbus,93.15,119.99
+242,242,"GoldenField Rice 2kg, Family Size",Grocery,Standard,GoldenField,6.26,8.99
+243,243,"GoldenField Oat Milk 1L, Family Size",Grocery,Standard,GoldenField,2.52,3.99
+244,244,"Ashford Chino Trousers, Black",Apparel,Premium,Ashford,29.35,69.99
+245,245,Ashford Rain Jacket,Apparel,Premium,Ashford,57.65,121.99
+246,246,GreenTable Breakfast Cereal,Grocery,Budget,GreenTable,1.98,2.89
+247,247,Voltix E-Reader,Electronics,Premium,Voltix,148.69,197.99
+248,248,"Kestrel 4K TV 55-inch, Pro",Electronics,Budget,Kestrel,357.43,500.99
+249,249,"Hearthstone Space Heater, Large",Home,Premium,Hearthstone,54.66,102.99
+250,250,"Cedar Scented Candle, Large",Home,Budget,Cedar,7.54,13.99
+251,251,"Ashford Swim Shorts, Black",Apparel,Premium,Ashford,17.75,36.99
+252,252,GreenTable BBQ Charcoal 8kg,Grocery,Budget,GreenTable,5.7,8.99
+253,253,"Ashford Winter Coat, Black",Apparel,Premium,Ashford,98.37,213.99
+254,254,"Trailhead Leather Belt, Navy",Apparel,Standard,Trailhead,11.36,26.99
+255,255,Trailhead Knit Beanie,Apparel,Standard,Trailhead,8.48,17.99
+256,256,"Marlow Sports Socks, Black",Apparel,Budget,Marlow,4.36,8.99
+257,257,Marlow Summer Dress,Apparel,Budget,Marlow,11.31,26.99
+258,258,"GoldenField Breakfast Cereal, Family Size",Grocery,Standard,GoldenField,4.54,6.99
+259,259,"Trailhead Rain Jacket, Black",Apparel,Standard,Trailhead,35.44,80.99
+260,260,GreenTable Oat Milk 1L,Grocery,Budget,GreenTable,1.23,1.87
+261,261,"Trailhead Winter Coat, Black",Apparel,Standard,Trailhead,64.32,139.99
+262,262,Larder Pasta 500g,Grocery,Premium,Larder,1.72,2.66
+263,263,Voltix Phone Case,Electronics,Premium,Voltix,18.83,26.99
+264,264,Voltix Bluetooth Speaker,Electronics,Premium,Voltix,67.71,89.99
+265,265,"Voltix Portable SSD 1TB, Pro",Electronics,Premium,Voltix,141.01,196.99
+266,266,"Hearthstone String Lights, Large",Home,Premium,Hearthstone,20.64,36.99
+267,267,"GreenTable Chocolate Bar, Family Size",Grocery,Budget,GreenTable,2.1,2.92
+268,268,Hearthstone Desk Fan,Home,Premium,Hearthstone,28.0,56.99
+269,269,Trailhead Summer Dress,Apparel,Standard,Trailhead,15.92,39.99
+270,270,"GoldenField Granola Bars, Multipack",Grocery,Standard,GoldenField,7.17,9.99
+271,271,"GreenTable Rice 2kg, Multipack",Grocery,Budget,GreenTable,4.87,7.99
+272,272,"Cedar String Lights, Large",Home,Budget,Cedar,8.98,17.99
+273,273,"GreenTable Olive Oil 1L, Family Size",Grocery,Budget,GreenTable,9.48,13.99
+274,274,GreenTable Sparkling Water 12-pack,Grocery,Budget,GreenTable,2.82,3.99
+275,275,Brightside Scented Candle,Home,Standard,Brightside,9.59,16.99
+276,276,Brightside Garden Hose,Home,Standard,Brightside,16.46,33.99
+277,277,"Hearthstone Non-Stick Frying Pan, Set of 2",Home,Premium,Hearthstone,43.71,82.99
+278,278,Ashford Sandals,Apparel,Premium,Ashford,21.07,49.99
+279,279,"Hearthstone Air Fryer, Set of 2",Home,Premium,Hearthstone,132.45,262.99
+280,280,"Brightside Coffee Maker, Large",Home,Standard,Brightside,55.22,95.99
+281,281,"Cedar Vacuum Cleaner, Large",Home,Budget,Cedar,91.08,163.99
+282,282,Ashford Slim-Fit Jeans,Apparel,Premium,Ashford,27.7,70.99
+283,283,"GoldenField Chocolate Bar, Family Size",Grocery,Standard,GoldenField,2.6,3.99
+284,284,"Brightside Desk Fan, Large",Home,Standard,Brightside,29.16,52.99
+285,285,"Nimbus Wireless Earbuds, Pro",Electronics,Standard,Nimbus,81.38,104.99
+286,286,GoldenField Hot Chocolate Mix,Grocery,Standard,GoldenField,4.21,5.99
+287,287,"Larder Ground Coffee 500g, Multipack",Grocery,Premium,Larder,18.27,29.99
+288,288,"Hearthstone Coffee Maker, Large",Home,Premium,Hearthstone,79.1,134.99
+289,289,"Ashford Knit Beanie, Black",Apparel,Premium,Ashford,11.0,26.99
+290,290,"Cedar Space Heater, Set of 2",Home,Budget,Cedar,34.08,64.99
+291,291,Larder Sparkling Water 12-pack,Grocery,Premium,Larder,5.5,7.99
+292,292,"GoldenField Olive Oil 1L, Multipack",Grocery,Standard,GoldenField,17.39,27.99
+293,293,GreenTable Chocolate Bar,Grocery,Budget,GreenTable,1.26,1.78
+294,294,Brightside String Lights,Home,Standard,Brightside,10.48,19.99
+295,295,"Trailhead Chino Trousers, Navy",Apparel,Standard,Trailhead,18.41,45.99
+296,296,"Kestrel Wireless Earbuds, Pro",Electronics,Budget,Kestrel,53.94,70.99
+297,297,Voltix HDMI Cable,Electronics,Premium,Voltix,12.89,17.99
+298,298,Brightside Desk Fan,Home,Standard,Brightside,18.95,36.99
+299,299,Hearthstone Queen Duvet,Home,Premium,Hearthstone,63.1,127.99
+300,300,"Kestrel E-Reader, Pro",Electronics,Budget,Kestrel,93.93,127.99
+301,301,Larder Hot Chocolate Mix,Grocery,Premium,Larder,5.31,7.99
+302,302,GreenTable Ground Coffee 500g,Grocery,Budget,GreenTable,4.15,5.99
+303,303,"Ashford Cotton T-Shirt, Black",Apparel,Premium,Ashford,8.11,19.99
+304,304,Kestrel Smart Watch,Electronics,Budget,Kestrel,104.54,140.99
+305,305,"Marlow Swim Shorts, Black",Apparel,Budget,Marlow,6.74,16.99
+306,306,GoldenField Ground Coffee 500g,Grocery,Standard,GoldenField,6.28,9.99
+307,307,"Voltix Gaming Console, Pro",Electronics,Premium,Voltix,695.83,945.99
+308,308,"Larder Oat Milk 1L, Family Size",Grocery,Premium,Larder,4.67,6.99
+309,309,Ashford Knit Beanie,Apparel,Premium,Ashford,10.57,25.99
+310,310,"GoldenField BBQ Charcoal 8kg, Family Size",Grocery,Standard,GoldenField,13.14,18.99
+311,311,"Kestrel Tablet 10-inch, Pro",Electronics,Budget,Kestrel,203.4,295.99
+312,312,Nimbus HDMI Cable,Electronics,Standard,Nimbus,8.35,11.99
+313,313,Cedar Garden Hose,Home,Budget,Cedar,10.09,20.99
+314,314,"Hearthstone Dinner Plate Set, Large",Home,Premium,Hearthstone,60.68,105.99
+315,315,"Marlow Sandals, Black",Apparel,Budget,Marlow,8.99,22.99
+316,316,Cedar Queen Duvet,Home,Budget,Cedar,32.66,64.99
+317,317,"Hearthstone Table Lamp, Large",Home,Premium,Hearthstone,43.06,80.99
+318,318,"GoldenField Green Tea 40 bags, Family Size",Grocery,Standard,GoldenField,3.68,5.99
+319,319,Kestrel Gaming Console,Electronics,Budget,Kestrel,218.46,301.99
+320,320,Hearthstone String Lights,Home,Premium,Hearthstone,13.83,26.99
+321,321,"Trailhead Leather Belt, Black",Apparel,Standard,Trailhead,13.7,27.99
+322,322,"Ashford Sandals, Black",Apparel,Premium,Ashford,20.56,48.99
+323,323,Marlow Winter Coat,Apparel,Budget,Marlow,45.32,102.99
+324,324,"Brightside Dinner Plate Set, Large",Home,Standard,Brightside,34.38,70.99
+325,325,"Ashford Rain Jacket, Black",Apparel,Premium,Ashford,56.4,122.99
+326,326,Nimbus Tablet 10-inch,Electronics,Standard,Nimbus,246.32,321.99
+327,327,GreenTable Honey 340g,Grocery,Budget,GreenTable,3.03,4.99
+328,328,Trailhead Sports Socks,Apparel,Standard,Trailhead,5.69,11.99
+329,329,Brightside Dinner Plate Set,Home,Standard,Brightside,30.87,54.99
+330,330,Nimbus Fitness Tracker,Electronics,Standard,Nimbus,73.99,94.99
+331,331,"Larder Hot Chocolate Mix, Family Size",Grocery,Premium,Larder,7.77,11.99
+332,332,Hearthstone Coffee Maker,Home,Premium,Hearthstone,54.04,93.99
+333,333,"Marlow Pyjama Set, Black",Apparel,Budget,Marlow,10.15,22.99
+334,334,Larder Green Tea 40 bags,Grocery,Premium,Larder,3.9,5.99
+335,335,"GreenTable Oat Milk 1L, Family Size",Grocery,Budget,GreenTable,2.02,2.84
+336,336,"Voltix E-Reader, Pro",Electronics,Premium,Voltix,200.69,266.99
+337,337,"Ashford Leather Belt, Black",Apparel,Premium,Ashford,17.74,42.99
+338,338,"Brightside Queen Duvet, Large",Home,Standard,Brightside,65.15,115.99
+339,339,"Larder Peanut Butter, Family Size",Grocery,Premium,Larder,6.01,8.99
+340,340,"Marlow Leather Belt, Navy",Apparel,Budget,Marlow,8.41,20.99
+341,341,"Larder Granola Bars, Multipack",Grocery,Premium,Larder,9.98,13.99
+342,342,GreenTable Pasta 500g,Grocery,Budget,GreenTable,0.85,1.28
+343,343,"Kestrel USB-C Charger, Pro",Electronics,Budget,Kestrel,17.07,22.99
+344,344,Nimbus Wireless Earbuds,Electronics,Standard,Nimbus,64.14,81.99
+345,345,Hearthstone Air Fryer,Home,Premium,Hearthstone,71.27,136.99
+346,346,"Hearthstone Desk Fan, Large",Home,Premium,Hearthstone,43.34,73.99
+347,347,"Brightside Chef Knife, Large",Home,Standard,Brightside,31.58,62.99
+348,348,Cedar Table Lamp,Home,Budget,Cedar,14.04,28.99
+349,349,Nimbus Bluetooth Speaker,Electronics,Standard,Nimbus,40.54,54.99
+350,350,GoldenField BBQ Charcoal 8kg,Grocery,Standard,GoldenField,9.2,13.99
+351,351,"Brightside Scented Candle, Large",Home,Standard,Brightside,11.1,20.99
+352,352,Larder Olive Oil 1L,Grocery,Premium,Larder,13.58,18.99
+353,353,Nimbus E-Reader,Electronics,Standard,Nimbus,100.37,136.99
+354,354,"Marlow Wool Sweater, Black",Apparel,Budget,Marlow,19.35,39.99
+355,355,"Brightside Storage Baskets, Large",Home,Standard,Brightside,18.12,36.99
+356,356,Trailhead Leather Belt,Apparel,Standard,Trailhead,13.68,29.99
+357,357,GoldenField Olive Oil 1L,Grocery,Standard,GoldenField,8.01,11.99
+358,358,"Marlow Wool Sweater, Navy",Apparel,Budget,Marlow,17.53,41.99
+359,359,"Larder Chocolate Bar, Family Size",Grocery,Premium,Larder,4.04,5.99
+360,360,Kestrel Fitness Tracker,Electronics,Budget,Kestrel,46.45,62.99
+361,361,"Voltix HDMI Cable, Pro",Electronics,Premium,Voltix,17.2,21.99
+362,362,"Trailhead Slim-Fit Jeans, Black",Apparel,Standard,Trailhead,20.37,46.99
+363,363,Nimbus Portable SSD 1TB,Electronics,Standard,Nimbus,75.35,95.99
+364,364,Nimbus 4K TV 55-inch,Electronics,Standard,Nimbus,388.65,547.99
+365,365,"Hearthstone Air Fryer, Large",Home,Premium,Hearthstone,108.92,191.99
+366,366,GoldenField Chocolate Bar,Grocery,Standard,GoldenField,1.62,2.37
+367,367,"Marlow Slim-Fit Jeans, Black",Apparel,Budget,Marlow,13.73,33.99
+368,368,Ashford Sports Socks,Apparel,Premium,Ashford,7.77,15.99
+369,369,Voltix Wireless Earbuds,Electronics,Premium,Voltix,81.59,109.99
+370,370,"Hearthstone Scented Candle, Large",Home,Premium,Hearthstone,15.79,28.99
+371,371,Ashford Leather Belt,Apparel,Premium,Ashford,15.77,38.99
+372,372,Trailhead Running Shoes,Apparel,Standard,Trailhead,41.52,90.99
+373,373,"Marlow Running Shoes, Black",Apparel,Budget,Marlow,27.77,63.99
+374,374,Brightside Vacuum Cleaner,Home,Standard,Brightside,95.91,165.99
+375,375,"Larder Honey 340g, Family Size",Grocery,Premium,Larder,10.01,13.99
+376,376,Kestrel Laptop 14-inch,Electronics,Budget,Kestrel,391.2,564.99
+377,377,"Hearthstone Queen Duvet, Large",Home,Premium,Hearthstone,92.89,156.99
+378,378,Larder Rice 2kg,Grocery,Premium,Larder,4.54,6.99
+379,379,"Voltix Tablet 10-inch, Pro",Electronics,Premium,Voltix,454.04,652.99
+380,380,"Hearthstone Non-Stick Frying Pan, Large",Home,Premium,Hearthstone,34.47,60.99
+381,381,Ashford Wool Sweater,Apparel,Premium,Ashford,38.54,80.99
+382,382,"Kestrel Bluetooth Speaker, Pro",Electronics,Budget,Kestrel,43.68,56.99
+383,383,"Ashford Cotton T-Shirt, Navy",Apparel,Premium,Ashford,8.04,20.99
+384,384,Cedar Chef Knife,Home,Budget,Cedar,20.15,33.99
+385,385,"GoldenField Peanut Butter, Family Size",Grocery,Standard,GoldenField,3.78,5.99
+386,386,"GoldenField Ground Coffee 500g, Family Size",Grocery,Standard,GoldenField,10.12,14.99
+387,387,"Larder Rice 2kg, Multipack",Grocery,Premium,Larder,10.51,14.99
+388,388,Marlow Running Shoes,Apparel,Budget,Marlow,28.34,62.99
+389,389,Larder Oat Milk 1L,Grocery,Premium,Larder,2.58,3.99
+390,390,"Brightside Vacuum Cleaner, Large",Home,Standard,Brightside,115.27,232.99
+391,391,Kestrel Wireless Earbuds,Electronics,Budget,Kestrel,40.27,56.99
+392,392,Brightside Air Fryer,Home,Standard,Brightside,51.88,100.99
+393,393,"GreenTable Ground Coffee 500g, Family Size",Grocery,Budget,GreenTable,6.29,9.99
+394,394,GoldenField Sparkling Water 12-pack,Grocery,Standard,GoldenField,3.88,5.99
+395,395,"Nimbus E-Reader, Pro",Electronics,Standard,Nimbus,131.72,179.99
+396,396,Voltix Fitness Tracker,Electronics,Premium,Voltix,90.14,121.99
+397,397,Brightside Table Lamp,Home,Standard,Brightside,21.61,42.99
+398,398,"Brightside Non-Stick Frying Pan, Large",Home,Standard,Brightside,23.76,46.99
+399,399,"GreenTable Chocolate Bar, Multipack",Grocery,Budget,GreenTable,2.49,3.99
+400,400,Brightside Storage Baskets,Home,Standard,Brightside,16.3,29.99
