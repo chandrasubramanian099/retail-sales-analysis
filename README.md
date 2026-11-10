@@ -114,6 +114,17 @@ Charts are saved to the `charts/` folder automatically.
 ---
 
 ## Business Takeaways
+## Power BI Dashboard
+
+**Live Dashboard:** [View on Power BI Service](https://app.powerbi.com/groups/me/reports/f92e5e4c-0e58-4426-8718-65f5111d2eae)
+
+**Key Insights:**
+- Electronics drives 42% of total revenue
+- South region leads all regions at $1.0M revenue  
+- Consumer segment accounts for 50% of revenue
+- Revenue peaks in November–December (+28% vs average)
+
+**Tools:** Power BI Desktop, DAX measures, Star schema (43,900 rows)
 
 1. **Electronics dominates** — 42% of revenue; prioritise stock and promotions here
 2. **Flagship stores punch far above their weight** — one South Flagship earns more than multiple Standard stores combined
